@@ -1,0 +1,31 @@
+﻿// SoundIDs
+static const unsigned int STRM_BGM_LEVEL01_01 = 0x01000000;
+static const unsigned int STRM_BGM_LEVEL01_02 = 0x01000001;
+static const unsigned int STRM_BGM_LEVEL02 = 0x01000002;
+static const unsigned int STRM_BGM_LEVEL03 = 0x01000003;
+static const unsigned int STRM_BGM_LEVEL04 = 0x01000004;
+static const unsigned int STRM_BGM_TITLE = 0x01000005;
+static const unsigned int WSD_SE_BULLET01 = 0x01000006;
+static const unsigned int WSD_SE_BULLET02 = 0x01000007;
+static const unsigned int WSD_SE_BULLET03 = 0x01000008;
+static const unsigned int WSD_SE_CLICK = 0x01000009;
+static const unsigned int WSD_SE_EXPLOSION1 = 0x0100000A;
+static const unsigned int WSD_SE_EXPLOSION2 = 0x0100000B;
+static const unsigned int WSD_SE_EXPLOSION3 = 0x0100000C;
+static const unsigned int WSD_SE_EXPLOSION4 = 0x0100000D;
+static const unsigned int WSD_SE_UIMOVE = 0x0100000E;
+static const unsigned int WSD_SE_VICTORY = 0x0100000F;
+
+// SoundGroupIDs
+// WaveSoundSetIDs
+static const unsigned int WSDSET_0 = 0x02000000;
+// SequenceSoundSetIDs
+
+// BankIDs
+
+// PlayerIDs
+static const unsigned int DEFAULT_PLAYER = 0x04000000;
+
+// WaveArchiveIDs
+
+// GroupIDs

@@ -1,0 +1,1 @@
+﻿F:\GC\GM21\GP51A186_07_05023_10\GameSwitch.vcxproj(391,5): error MSB4019: インポートされたプロジェクト "F:\GC\GM21\GP51A186_07_05023_10\NintendoSdkSampleSpec_NX.props" が見つかりませんでした。Import 宣言 "NintendoSdkSampleSpec_NX.props" の式が正しいことと、ファイルがディスク上に存在することを確認してください。

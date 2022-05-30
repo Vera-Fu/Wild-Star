@@ -1,0 +1,20 @@
+﻿// SoundIDs
+static const unsigned int STRM_TITLE_BGM = 0x01000000;
+static const unsigned int STRM_LEVEL_01_BATTLE_BGM = 0x01000001;
+static const unsigned int STRM_LEVEL_01_BOSS_BGM = 0x01000002;
+static const unsigned int WSD_KETTEI = 0x01000003;
+
+// SoundGroupIDs
+// WaveSoundSetIDs
+static const unsigned int WSDSET_0 = 0x02000000;
+// SequenceSoundSetIDs
+
+// BankIDs
+
+// PlayerIDs
+static const unsigned int BGM = 0x04000000;
+static const unsigned int SE = 0x04000001;
+
+// WaveArchiveIDs
+
+// GroupIDs
